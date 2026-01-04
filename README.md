@@ -48,7 +48,7 @@ src/
 ```
 **Admin Login:**
 
-Email: admin@shop.com
+Email: admin@example.com
 Password: admin123
 
 ## 🔧 Installation
