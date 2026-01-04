@@ -46,6 +46,10 @@ src/
 ├── validators/      # Input validation schemas
 └── app.ts           # Main application file
 ```
+**Admin Login:**
+
+Email: admin@shop.com
+Password: admin123
 
 ## 🔧 Installation
 
